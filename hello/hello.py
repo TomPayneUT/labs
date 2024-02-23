@@ -13,7 +13,7 @@ def roll_dice():
 
 roll_dice()
 
-def roll_d():
+def roll_d():    
     max = input('How many sides?:')
     print('That\'s a D', max)
     roll = randint(1, int(max))
