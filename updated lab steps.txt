@@ -1,0 +1,26 @@
+Raspberry Pi Lab Links
+
+1. Setting Up your Raspberry Pi	
+	https://projects.raspberrypi.org/en/projects/raspberry-pi-setting-up/0
+2. Using your Raspberry Pi	
+	https://projects.raspberrypi.org/en/projects/raspberry-pi-using/0
+3. Remote access to your Raspberry Pi (Optional)	
+	https://magpi.raspberrypi.com/articles/vnc-raspberry-pi
+4. Your first Python program	
+	https://projects.raspberrypi.org/en/projects/hello-world/0
+5. Intro to Electronics
+	https://magpi.raspberrypi.com/articles/get-started-with-electronics-and-raspberry-pi
+6. Controlling Electronics	
+	https://projects.raspberrypi.org/en/projects/physical-computing/1
+    		a.	Only up to using PIR sensor
+    		b.	Skip the Light-dependent resistor lab too
+7. Lighting up an LED strip	
+	a. RPi4 - https://core-electronics.com.au/guides/fully-addressable-rgb-raspberry-pi/
+	b. RPi5 - https://github.com/hannescam/NeoSPI/issues/2
+        	i. See: https://github.com/hannescam/NeoSPI/issues/2
+8. Make an LCD smart alarm clock	
+	https://howchoo.com/pi/how-to-make-a-raspberry-pi-smart-alarm-clock/
+    	a.	If you get an error:
+        	i.	sudo rm /usr/lib/python3.11/EXTERNALLY-MANAGED
+        	ii.	try that step again
+
