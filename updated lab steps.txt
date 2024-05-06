@@ -16,8 +16,9 @@ Raspberry Pi Lab Links
     		b.	Skip the Light-dependent resistor lab too
 7. Lighting up an LED strip	
 	a. RPi4 - https://core-electronics.com.au/guides/fully-addressable-rgb-raspberry-pi/
-	b. RPi5 - https://github.com/hannescam/NeoSPI/issues/2
-        	i. See: https://github.com/hannescam/NeoSPI/issues/2
+	b. RPi5 - Connect Pin 2 to +5V, Pin 6 to GND, and Pin 19 (GPIO 10 MOSI) to Din
+		i. Run labs/ledstrip/spidev/wheel.py  (run turnoff.py as needed)
+        	ii. See: https://github.com/hannescam/NeoSPI/issues/2
 8. Make an LCD smart alarm clock	
 	https://howchoo.com/pi/how-to-make-a-raspberry-pi-smart-alarm-clock/
     	a.	If you get an error:
